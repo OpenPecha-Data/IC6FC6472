@@ -1,0 +1,11 @@
+id: 263fcbd5a39e4879ac0fbcba95202054
+annotation_type: index
+revision: '00001'
+annotations:
+  93000a849e734caf997dc3bce07d1a52:
+    base: 00EE.txt
+    Chapters:
+    - title: Vinayavibhaṅga
+      span:
+        start: 0
+        end: 7919
